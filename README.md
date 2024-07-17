@@ -1,4 +1,4 @@
-## Guvi ZenClass DB Model
+## DB Model for Guvi-Zen Class
 
 ### Overview
 
