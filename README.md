@@ -1,4 +1,4 @@
-## MySql-DB-Design-Task
+## Guvi ZenClass DB Model
 
 ### Overview
 
